@@ -150,10 +150,9 @@ jupyter notebook
 
 ## 👤 Authors
 
-Kashyap Ramakrishnan
-Swetha V Gopal
+- Kashyap Ramakrishnan
+- Swetha V Gopal
 
-M.Sc Applied Statistics and Data Analytics Students
-Amrita Vishwa Vidyapeetham, Coimbatore
+M.Sc Applied Statistics and Data Analytics Students at Amrita Vishwa Vidyapeetham, Coimbatore
 
 If you found this project useful, consider starring the repository. Tiny bursts of dopamine are basically the fuel source of open-source development.
